@@ -1,0 +1,32 @@
+{
+  "articles_data": [
+    {
+      "title": "Title 1",
+      "description": "Description for article 1",
+      "ways_to_achieve": [
+        "Title 1 - ways_to_achieve 1",
+        "Title 1 - ways_to_achieve 2",
+        "Title 1 - ways_to_achieve 3"
+      ],
+      "benefits": [
+        "Title 1 - Benefit 1",
+        "Title 1 - Benefit 2",
+        "Title 1 - Benefit 3"
+      ]
+    },
+    {
+      "title": "Title 2",
+      "description": "Description for article 2",
+      "ways_to_achieve": [
+        "Title 2 - ways_to_achieve 1",
+        "Title 2 - ways_to_achieve 2",
+        "Title 2 - ways_to_achieve 3"
+      ],
+      "benefits": [
+        "Title 2 - Benefit 1",
+        "Title 2 - Benefit 2",
+        "Title 2 - Benefit 3"
+      ]
+    }
+  ]
+}
